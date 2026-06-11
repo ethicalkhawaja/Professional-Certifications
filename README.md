@@ -10,4 +10,5 @@
 - Certificate included in repository
 
 📄 Certificate:
-Networking-Basics-Certificate.pdf
+[Networking Basics Certificate](Networking-Basics-Certificate.pdf)
+
