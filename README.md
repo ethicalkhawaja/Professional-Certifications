@@ -15,5 +15,5 @@
 ### Networking Devices and Initial Configuration
 - Issued Jun 2026
 - Verification: Credly Badge
-- Certificate:
-- [Network-Devices-and-Basic-Configuration-Certificate.](Network-Devices-and-Basic-Configuration-Certificate.pdf)
+ 
+- Certificate:   [Network-Devices-and-Basic-Configuration-Certificate.](Network-Devices-and-Basic-Configuration-Certificate.pdf)
