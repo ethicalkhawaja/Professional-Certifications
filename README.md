@@ -16,4 +16,4 @@
 - Issued Jun 13 2026
 - Verification: Credly Badge
  
-- Certificate:   [Networking-Devices-and-Basic-Configuration-Certificate..pdf](Network-Devices-and-Basic-Configuration-Certificate..pdf)
+- Certificate:  [Networking-Devices-and-Basic-Configuration-Certificate..pdf](Networking-Devices-and-Basic-Configuration-Certificate..pdf)
