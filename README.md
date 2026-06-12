@@ -12,7 +12,7 @@
 📄 Certificate:
 [Networking Basics Certificate](Networking-Basics-Certificate.pdf)
 
-### Networking Devices and Initial Configuration
+### Networking Devices and Basic Configuration
 - Issued Jun 2026
 - Verification: Credly Badge
  
