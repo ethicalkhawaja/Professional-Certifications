@@ -17,3 +17,9 @@
 - Verification: Credly Badge
  
 - Certificate:  [Networking-Devices-and-Basic-Configuration-Certificate..pdf](Networking-Devices-and-Basic-Configuration-Certificate..pdf)
+
+### Operating Systems Basics
+- Issued June 24 2026
+- Verification: Credly Badge
+
+- Certficate: [Operating-Systems-Basics](Operating-Systems-Basics.pdf)
