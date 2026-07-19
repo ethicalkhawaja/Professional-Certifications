@@ -23,5 +23,5 @@
 - ### Computer Communications and Networks
 - Issued june 30 2026
 
-- Certificate: [Computer Communications and Networks].(Computer Communications and Networks.pdf)
+- Certificate: [Computer-Communications-and-Networks](Computer-Communications-and-Networks.pdf)
 
