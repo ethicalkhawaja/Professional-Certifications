@@ -20,6 +20,8 @@
 
 - Certficate: [Operating-Systems-Basics](Operating-Systems-Basics.pdf)
 
+## Saylor University awards
+
 ### Computer Communications and Networks
 - Issued june 30 2026
 
@@ -29,6 +31,8 @@
 - Issued july 15 2026
 
 - Cetificate: [Applied-College-Algebra](Applied-College-Algebra.pdf)
+
+## Amazon Web Services(AWS)
 
 ### AWS Compute Services Overview
 Issued july 15 2026
