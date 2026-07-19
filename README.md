@@ -30,3 +30,7 @@
 
 - Cetificate: [Applied-College-Algebra](Applied-College-Algebra.pdf)
 
+### AWS Compute Services Overview
+Issued july 15 2026
+
+Certificate: [AWS-Compute-Services-Overview](AWS-Compute-Services-Overview.pdf)
