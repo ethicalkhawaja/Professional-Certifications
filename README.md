@@ -16,7 +16,7 @@
 
 ### Operating Systems Basics
 - Issued: June 24 2026
-- 
+ 
 - Certficate: [Operating-Systems-Basics](Operating-Systems-Basics.pdf)
 
 - ### Python Essentials
