@@ -20,12 +20,12 @@
 
 - Certficate: [Operating-Systems-Basics](Operating-Systems-Basics.pdf)
 
-- ### Computer Communications and Networks
+### Computer Communications and Networks
 - Issued june 30 2026
 
 - Certificate: [Computer-Communications-and-Networks](Computer-Communications-and-Networks.pdf)
 
-- ### Applied College Algebra
+### Applied College Algebra
 - Issued july 15 2026
 
 - Cetificate: [Applied-College-Algebra](Applied-College-Algebra.pdf)
