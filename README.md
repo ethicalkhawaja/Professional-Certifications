@@ -7,8 +7,7 @@
 
 - Issued: June 11 2026
 
-📄 Certificate:
-[Networking Basics Certificate](Networking-Basics-Certificate.pdf)
+📄 Certificate: [Networking Basics Certificate](Networking-Basics-Certificate.pdf)
 
 ### Networking Devices and Basic Configuration
 - Issued: Jun 13 2026
