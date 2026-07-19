@@ -25,3 +25,8 @@
 
 - Certificate: [Computer-Communications-and-Networks](Computer-Communications-and-Networks.pdf)
 
+- ### Applied College Algebra
+- Issued july 15 2026
+
+- Cetificate: [Applied-College-Algebra](Applied-College-Algebra.pdf)
+
