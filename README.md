@@ -41,8 +41,8 @@
 ## Amazon Web Services(AWS)
 
 ### AWS Compute Services Overview
-Issued: july 15 2026
+- Issued: july 15 2026
 
-Certificate: [AWS-Compute-Services-Overview](AWS-Compute-Services-Overview.pdf)
+- Certificate: [AWS-Compute-Services-Overview](AWS-Compute-Services-Overview.pdf)
 
 
